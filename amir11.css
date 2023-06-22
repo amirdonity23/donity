@@ -1,0 +1,116 @@
+div#tlogins img.fr.co
+{
+	float:right;
+	display:inline;
+	margin-top:13px;
+	margin-left:3px;
+	width:20px!important;
+	height:20px;
+	position:static;
+	border-radius:15px!important
+}
+
+label.label.label-primary.mini.fl { 	pointer-events:none; 	width:50%!important; 	height:20px; 	color:#fff; 	border:none!important; 	font-family:'fanni'; 	border-radius:0 0 0 0!important; 	font-family:fanni; 	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%)!important; 	font-size:15px!important } ::-webkit-scrollbar { 	width:5px; 	height:10px } ::-webkit-scrollbar-button { 	width:5px; 	height:5px } ::-webkit-scrollbar-thumb { 	background:#8C1759; 	border:71px none #fff; 	border-radius:31px; 	background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important } ::-webkit-scrollbar-thumb:hover { 	background:#ffffff } ::-webkit-scrollbar-thumb:active { 	background:#8C1759 } ::-webkit-scrollbar-track { 	background:#8C1759; 	border:65px none #ffffff; 	border-radius:34px } ::-webkit-scrollbar-track:hover { 	background:#ffffff } ::-webkit-scrollbar-track:active { 	background:#3F8B91 } ::-webkit-scrollbar-corner { 	background:transparent }
+
+label.fl.label.loginstat.label-success {width: 50%!important;
+box-shadow: inset 0 8px 8px rgb(184, 224, 184), 0 0 20px rgb(184, 224, 184);
+color: #ffffff;
+border-radius: 15px 0px 15px 0px!important;
+font-family: 'jazeera',FontAwesome;
+height: 30px;
+display: inline-flex;
+background-color: #8C1759!important;
+margin-left: 10px;
+}
+.fr.borderg {border: 1px solid #ffffff;color: #8C1759;font-family: 'jazeera',FontAwesome;background-color: #ffffff!important;border-radius: 15px 0px 15px 0px;} .label-primary.mini.fl, .border-radius {border: 2px solid #8C1759;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.amir51 { background-color: #fff; border-radius: 15px 15px 15px 15px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px; } #amir52{ margin-bottom: 2px; font-family: 'jazeera-light',FontAwesome; background-color: #8C1759; height: 28px; color: #ffffff; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #8C1759; border-top: 2px solid #ffffff; padding-bottom: 2px!important; } 
+.fr.co
+{
+			float:left;
+	display:inline;
+	margin-top:50px;
+	margin-left:6px;
+	width:15px!important;
+	height:15px;
+	position:static;
+	border-radius:15px!important
+}
+
+ul.nav.nav-tabs.fl li a:hover
+{
+	color:#8C1759
+}
+
+
+#amir98
+{
+	text-decoration:dotted;
+	color:#fff;
+	margin-top:3.7px!important;
+	margin-left:2px!important;
+	display:inline-block;
+	float:right;
+	margin-right:1.5px!important;
+	border-radius:7px 7px 0 0
+}
+
+.btn-as,.btn-as
+{
+	border: .50px solid #8C1759;
+	font-family:'jazeera',FontAwesome;
+	font-size:13px!important;
+	padding:2px 2px 0!important;
+	text-align:center!important;
+	color:#fff!important;
+	background-image:radial-gradient(circle,#ffffff,#8C1759,#ffffff)!important
+}
+.nav-tabs>li>a {
+    border: 0px solid transparent;
+}
+.s1.fa.fa-user.label.badgex.label-as-badge.label-success
+{
+	background-image:none
+}
+
+span.s1.fa.fa-user.label.badgex.label-as-badge.label-success
+{
+	border-radius:5px 5px 5px 5px;
+	margin-left:-8px;
+	font-size:12px!important;
+	padding:1px;
+	background-color:#8C1759;
+	color:#fff
+}
+
+div#l1 input#u1
+{
+	width:105%;
+	margin-top:-3px;
+	margin-left:-5px!important;
+	text-align:center;
+	border-radius:7px;
+	height:30px;
+	border-left:1px solid#ffffff!important;
+	border-right:1px solid#ffffff!important;
+	border-top:1px solid#8C1759!important;
+	border-bottom:1px solid#8C1759!important
+}
+
+div#l2,div#l3
+{
+	margin-top:-25px
+}
+
+.checkbox
+{
+	margin-top:7px!important;
+	margin-left:-1px!important;
+	position:fixed;
+	float:right
+}
+
+div#l2 button.btn.btn-primary,div#l3 button.btn.btn-primary
+{
+	margin-left:127px!important;
+	margin-top:3px!important
+}
