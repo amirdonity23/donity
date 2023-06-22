@@ -99,7 +99,7 @@ div#l1 input#u1
 
 div#l2,div#l3
 {
-	margin-top:-25px
+	margin-top:-20px
 }
 
 .checkbox
@@ -112,7 +112,7 @@ div#l2,div#l3
 
 div#l2 button.btn.btn-primary,div#l3 button.btn.btn-primary
 {
-	margin-left:127px!important;
+	margin-left:7px!important;
 	margin-top:3px!important
 }
 
