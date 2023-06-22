@@ -57,7 +57,7 @@ ul.nav.nav-tabs.fl li a:hover
 
 .btn-as,.btn-as
 {
-	border: .50px solid #c27ba0;
+	border: .20px solid #c27ba0;
 	font-family:'jazeera',FontAwesome;
 	font-size:13px!important;
 	padding:2px 2px 0!important;
@@ -66,7 +66,7 @@ ul.nav.nav-tabs.fl li a:hover
 	background-image:radial-gradient(circle,#b40666,#98205f,#ef95c4)!important
 }
 .nav-tabs>li>a {
-    border: 50px solid transparent;
+    border: 20px solid transparent;
 }
 .s1.fa.fa-user.label.badgex.label-as-badge.label-success
 {
@@ -105,7 +105,7 @@ div#l2,div#l3
 .checkbox
 {
 	margin-top:10px!important;
-	margin-left:-80px!important;
+	margin-left:-20px!important;
 	position:fixed;
 	float:right
 }
