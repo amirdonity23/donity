@@ -133,8 +133,6 @@ div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.bt
 div#l1 button.btn.btn-primary
 {
 	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%);
-    margin-left: 127px!important;
-    margin-top: 33px!important;
 }
 
 .fa-comments:before
@@ -150,32 +148,6 @@ div#l1 button.btn.btn-primary
 	padding:5px!important
 }
 
-div#l2,div#l3
-{
-	position:absolute!important;
-	width:58%!important;
-    margin-top: -2px!important;
-    margin-left: 160px!important;
-	height: 99px;
-	border-radius:7px;
-	background-color:#8C1759;
-	background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important
-}
-
-div#l2 input#u2,div#l3 input#u3
-{
-	border-left:1px solid#ffffff!important;
-	border-right:1px solid#ffffff!important;
-	border-top:1px solid#8C1759!important;
-	border-bottom:1px solid#8C1759!important;
-	width:105%;
-	padding:0!important;
-	margin-left:-4px!important;
-	text-align:center;
-	height:30px;
-	border-radius:7px;
-	margin-top:-4px!important
-}
 img.fitimg.fl.u-pic { border: 1px solid #8C1759; border-radius: 19px; } label.label.tc.border.btn.fl { border-radius: 15px 15px 15px 15px; } .room.borderg.hand.nosel.fl img.fl.u-pic { border-radius: 15px 15px 15px 15px; } label.tc { border-radius: 15px 15px 0px 0px; } body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr { background-image: url(); } .u-msg.break.fl { color: #8C1759; }
 div#l2 input#pass1,div#l3 input#pass2
 {
@@ -231,16 +203,7 @@ div#tlogins.hand.nosel.fl.uzr.border
 	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%)
 }
 
-div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary
-{
-	border-radius:7px!important;
-	width:85px;
-	position:inherit;
-	height:26px;
-	margin-bottom:4px;
-	padding:0 0 3px;
-	font-family:'fanni'
-}
+
 
 div#users img.fl.ustat { border-radius: 42px 37px 37px 42px; margin: 0; margin-right: -35.3px; margin-top: -1px; width: 39px!important; height: 39px!important; }
 
