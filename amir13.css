@@ -123,18 +123,6 @@ div#l1.grow.break.tab-pane.fade.active.in
 	background-image:-webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
 	border-radius:7px
 }
-
-div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary
-{
-	background-image:radial-gradient(circle,#ffffff,#8C1759,#ffffff)!important;
-
-}
-
-div#l1 button.btn.btn-primary
-{
-	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%);
-}
-
 .fa-comments:before
 {
 	cursor:pointer;
