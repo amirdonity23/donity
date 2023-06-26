@@ -191,7 +191,7 @@ div#tlogins.hand.nosel.fl.uzr.border
 	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%)
 }
 
-.broadcasters.ismute.showpf { border: .50px solid #8C1759; font-family:'jazeera',FontAwesome; font-size:13px!important; padding:2px 2px 0!important; text-align:center!important; color:#fff!important; background-image:radial-gradient(circle,#ffffff,#8C1759,#ffffff)!important }
+.fl nosel label pnhead.broadcasters.ismute.showpf { border: .50px solid #8C1759; font-family:'jazeera',FontAwesome; font-size:13px!important; padding:2px 2px 0!important; text-align:center!important; color:#fff!important; background-image:radial-gradient(circle,#ffffff,#8C1759,#ffffff)!important }
 
 
 
