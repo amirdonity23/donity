@@ -203,6 +203,8 @@ div#tlogins.hand.nosel.fl.uzr.border
 	background:linear-gradient(163deg,#8C1759 0%,#ffffff 100%)
 }
 
+.broadcasters.ismute.showpf { border: .50px solid #8C1759; font-family:'jazeera',FontAwesome; font-size:13px!important; padding:2px 2px 0!important; text-align:center!important; color:#fff!important; background-image:radial-gradient(circle,#ffffff,#8C1759,#ffffff)!important }
+
 
 
 div#users img.fl.ustat { border-radius: 42px 37px 37px 42px; margin: 0; margin-right: -35.3px; margin-top: -1px; width: 39px!important; height: 39px!important; }
