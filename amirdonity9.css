@@ -9,14 +9,14 @@
     border: 2px solid #4682B4;
     border-radius: 4px;
     width: 50%!important;margin-left: 180px;margin-top: 3px;}
-div#l2 , div#l3 {padding: 2px!important;} div#l1 {height: 120px;margin: 0px 1px -18px 1px;padding: 0px!important;} div#l3 br , div#l2 br {display: none;} div#l2 ,div#l3, div#l1 { border-bottom: 2px solid; margin-bottom: 2px; border-top: 3px solid; margin-top: 30px; border-color: #108378; border-radius: 15px 15px 0px 0px; height: 150px; } 
+div#l2 , div#l3 {padding: 2px!important;} div#l1 {height: 120px;margin: 0px 1px -18px 1px;padding: 0px!important;} div#l3 br , div#l2 br {display: none;} div#l2 ,div#l3, div#l1 { border-bottom: 2px solid; margin-bottom: 2px; border-top: 3px solid; margin-top: 10px; border-color: #108378; border-radius: 15px 15px 0px 0px; height: 350px; } 
 a.label.label-primary.fl img.fl {
     display: none;
 }
 
 .amir51 { background-color: #fff; border-radius: 15px 15px 15px 15px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px; } #amir52{ margin-bottom: 2px; font-family: 'jazeera-light',FontAwesome; background: linear-gradient(163deg,#ffffff 0%,#962749 100%)!important; }
 a.label.label-primary.fl {
-    width: 48%!important;
+    width: 68%!important;
     border-radius: 5px!important;
     margin: 5px -4px;
     padding: 3px!important;
