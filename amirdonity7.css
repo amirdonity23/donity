@@ -3,13 +3,13 @@
     text-align: center;
     border: 2px solid #4682B4;
     border-radius: 15px 15px 0px 0px;margin-left: 180px;
-    width: 10%!important;margin-top: 90px;} 
+    width: 50%!important;margin-top: 90px;} 
  input#pass1, input#pass2 {
     text-align: center;
     border: 2px solid #4682B4;
     border-radius: 4px;
-    width: 10%!important;margin-left: 180px;margin-top: 3px;}
-div#l2 , div#l3 {padding: 2px!important;} div#l1 {height: 120px;margin: 0px 1px -18px 1px;padding: 0px!important;} div#l3 br , div#l2 br {display: none;} div#l2 ,div#l3, div#l1 { border-bottom: 2px solid; margin-bottom: 2px; border-top: 30px solid; margin-top: 30px; border-color: #108378; border-radius: 15px 15px 0px 0px; height: 150px; } 
+    width: 50%!important;margin-left: 180px;margin-top: 3px;}
+div#l2 , div#l3 {padding: 2px!important;} div#l1 {height: 120px;margin: 0px 1px -18px 1px;padding: 0px!important;} div#l3 br , div#l2 br {display: none;} div#l2 ,div#l3, div#l1 { border-bottom: 2px solid; margin-bottom: 2px; border-top: 3px solid; margin-top: 30px; border-color: #108378; border-radius: 15px 15px 0px 0px; height: 150px; } 
 a.label.label-primary.fl img.fl {
     display: none;
 }
