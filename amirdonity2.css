@@ -1,5 +1,5 @@
  .checkbox { margin-top: -80px!important; margin-left: -83px!important; position: fixed; float: right; /* margin-right: 100px!important;*/ }
- div#l1 button {border-radius: 0px 0px 15px 15px;width: 50%;height: 30px;margin-left: 180px;} div#l3 button {border-radius: 0px 0px 15px 15px ;width: 50%;height: 30px;margin-left:180px;} div#l2 button {border-radius: 0px 0px 15px 15px;width: 50%;height: 30px;margin-left: 180px;} input#u2, input#u1, input#u3 {
+ div#l1 button {border-radius: 0px 0px 15px 15px;width: 50%;height: 30px;margin-left: 180px;margin-top: 40px;} div#l3 button {border-radius: 0px 0px 15px 15px ;width: 50%;height: 30px;margin-left:180px;} div#l2 button {border-radius: 0px 0px 15px 15px;width: 50%;height: 30px;margin-left: 180px;} input#u2, input#u1, input#u3 {
     text-align: center;
     border: 2px solid #4682B4;
     border-radius: 15px 15px 0px 0px;margin-left: 180px;
