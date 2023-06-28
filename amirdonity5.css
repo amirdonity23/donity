@@ -50,3 +50,4 @@ label.fl.label.loginstat { float: right!important; border-radius: 5px!important;
 
 .uzr.fl.corner.borderg {margin: 5px 0;borderRight: 2px solid #4F565E;borderLeft: 2px solid #4F565E;borderTop: .40px solid #c1202045;borderBottom: .50px solid #c1202045;paddingTop: 3px;borderRadius: 10px;}
 .room.borderg.hand.nosel.fl {margin: 5px 0;borderRight: 2px solid #4F565E;borderLeft: 2px solid #4F565E;borderTop: 1px solid #4F565E;borderBottom: 2px solid #4F565E;paddingTop: 3px;borderRadius: 15px;}
+.label label-primary mini fl{ float: right!important; border-radius: 5px!important; position: absolute; top: 0; right: 0; margin: 5px -4px; padding: 1px 8px 4px!important; margin-top: 200px; font-family: 'jazeera',FontAwesome; font-size: 13px !important; }
