@@ -30,7 +30,7 @@ img.fitimg.fl.u-pic { border: 1px solid #373A91; border-radius: 19px; }
 div#users img.fl.ustat { border-radius: 37px 37px 5px 37px; margin: 0; margin-right: -38.5px; margin-top: -1px; width: 39px!important; height: 39px!important; }
 
 label.fl.label.loginstat { float: right!important; border-radius: 5px!important; position: absolute; top: 0; right: 0; margin: 5px -4px; padding: 1px 8px 4px!important; margin-top: 5px; font-family: 'jazeera',FontAwesome; font-size: 13px !important; }
-.label.tc.border.btn.fl, .label.tc.border.btn.fl{ background: linear-gradient(163deg,#ffffff 0%,#962749 100%)!important;border-radius: 11px 11px 3px 12px;} 
+.label.tc.border.btn.fl, . evant, .broadcasters, .label.tc.border.btn.fl{ background: linear-gradient(163deg,#ffffff 0%,#962749 100%)!important;border-radius: 11px 11px 3px 12px;} 
 .ae.fa.label.label-primary.fa-user, .ae.fa.label.fa-commenting-o, .bwall.minix.badge.border { border-radius: 15px 0px 0px 15px;}
 .ae.label.label-primary.fa.fa-gear, .ae.fa.label.label-primary.fa-users {border-radius: 0px 15px 15px 0px;}
   
