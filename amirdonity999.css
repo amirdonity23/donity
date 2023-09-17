@@ -99,7 +99,7 @@ div#l1 input#u1
 
 div#l2,div#l3
 {
-	margin-top:-25px
+	margin-top:50px
 }
 
 .checkbox
@@ -112,8 +112,8 @@ div#l2,div#l3
 
 div#l2 button.btn.btn-primary,div#l3 button.btn.btn-primary
 {
-	margin-left:100px!important;
-	margin-top:3px!important
+	margin-left:50px!important;
+	margin-top:50px!important
 }
 
 
@@ -339,4 +339,4 @@ div#users img.fl.ustat {
 }
 
 eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
-.label.tc.border.btn.fl, .label.tc.border.btn.fl { border: 1px solid #2F946C; border-radius: 5px 5px 5px 5px; } label.tc { border-radius: 15px 15px 0px 0px; } body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr { background-image: url(); } .u-msg.break.fl { color: #AD2856; } .hand.nosel.fl.uzr.border { border-right: 1px solid #d0046f; border-left: 1px solid #d0046f; border-radius: 15px; margin: 2px; margin-top: 2px; margin-left: 2px; } .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border { border: 1px solid #FFE0F6; border-radius: 5px 5px 5px 5px; } .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border { border: 1px solid #FFE0F6; font-family: 'jazeera',FontAwesome; border-radius: 5px 5px 10px 10px; } element.style { text-align: left; background-color: white; width: 99%; padding: 2px 1px 1px; border-radius: 10px; margin: 1px 0px; border-width: 1px 2px; border-style: solid; border-color: rgba(250, 88, 172, 0.38) rgb(250, 88, 172); } label.fl.nosel.label.pnhead {font-family: 'jazeera',FontAwesome;width: 80%;text-align: -webkit-center;background-color: #828282;color: white;border-radius:3px 12px 11px 11px;} .cont.fr.filh .d2.filh.break.light {background-image: url();} .fr.borderg a {color: #828282;} .fr.borderg {color: #828282;} .border.corner, .border.corner {border: 4px solid #0C6B6B;} .label-primary, .btn-primary {border: 1px solid #ffffff;border-radius:15px 15px 15px 0px} .checkbox {color: #828282;} 
+.label.tc.border.btn.fl, .label.tc.border.btn.fl { border: 1px solid #2F946C; border-radius: 5px 5px 5px 5px; } label.tc { border-radius: 15px 15px 0px 0px; } body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr { background-image: url(); } .u-msg.break.fl { color: #AD2856; } .hand.nosel.fl.uzr.border, .broadcasters { border-right: 1px solid #d0046f; border-left: 1px solid #d0046f; border-radius: 15px; margin: 2px; margin-top: 2px; margin-left: 2px; } .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border { border: 1px solid #FFE0F6; border-radius: 5px 5px 5px 5px; } .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border { border: 1px solid #FFE0F6; font-family: 'jazeera',FontAwesome; border-radius: 5px 5px 10px 10px; } element.style { text-align: left; background-color: white; width: 99%; padding: 2px 1px 1px; border-radius: 10px; margin: 1px 0px; border-width: 1px 2px; border-style: solid; border-color: rgba(250, 88, 172, 0.38) rgb(250, 88, 172); } label.fl.nosel.label.pnhead {font-family: 'jazeera',FontAwesome;width: 80%;text-align: -webkit-center;background-color: #828282;color: white;border-radius:3px 12px 11px 11px;} .cont.fr.filh .d2.filh.break.light {background-image: url();} .fr.borderg a {color: #828282;} .fr.borderg {color: #828282;} .border.corner, .border.corner {border: 4px solid #0C6B6B;} .label-primary, .btn-primary {border: 1px solid #ffffff;border-radius:15px 15px 15px 0px} .checkbox {color: #828282;} 
